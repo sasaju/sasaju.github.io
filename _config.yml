@@ -21,10 +21,10 @@ timezone: Asia/Shanghai
 
 title: 符号de窝                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 这里是一个药学生的博客   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  分享分子对接、AIDD、CADD的内容
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://sasaju.github.io'
@@ -32,14 +32,14 @@ url: 'https://sasaju.github.io'
 github:
   username: sasaju             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: sasaju
-  email: example@domain.com             # change to your email address
+  email: lifly@lifly.cn             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
