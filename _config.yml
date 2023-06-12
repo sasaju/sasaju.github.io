@@ -87,7 +87,7 @@ avatar: https://avatars.githubusercontent.com/u/21136684?v=4
 toc: true
 
 comments:
-  active: disqus      # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active:       # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     comments: true
